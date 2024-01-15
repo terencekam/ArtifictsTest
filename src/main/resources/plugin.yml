@@ -1,0 +1,4 @@
+name: ArtifictsTest
+version: '${project.version}'
+main: xyz.thepeace.artifictstest.Main
+api-version: '1.20'
